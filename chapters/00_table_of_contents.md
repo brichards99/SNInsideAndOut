@@ -2,17 +2,17 @@
 
 ## Part I - Prerequisites
 
-1. ServiceNow Overview
-2. IT Service Management
-3. Development Tools and Resources
-4. Path to certification
+1. [ServiceNow Overview](ch01.md)
+2. [IT Service Management](ch02.md)
+3. [Development Tools and Resources](ch03.md)
+4. [Path to certification](ch04.md)
 
 ## Part II - The inside 
 
-5. The user's perspective
-6. Building a development toolkit
-7. Test records
-8. User, groups, roles
+5. [The user's perspective](ch05.md)
+6. [Building a development toolkit](ch06.md)
+7. [Test records](ch07.md)
+8. [User, groups, roles](ch08.md)
 9. Modifying the Incident module
 10. The Service Catalog
 11. Knowledge
