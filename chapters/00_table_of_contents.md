@@ -1,18 +1,18 @@
 # Table of Contents
 
-## Part I - Prerequisites
+## Part I - [Notes to Get Started](ch01_00.md)
 
-1. [ServiceNow Overview](ch01.md)
-2. [IT Service Management](ch02.md)
-3. [Development Tools and Resources](ch03.md)
-4. [Path to certification](ch04.md)
+1. [ServiceNow Overview](ch01_01.md)
+2. [IT Service Management](ch01_02.md)
+3. [Development Tools and Resources](ch01_03.md)
+4. [Path to certification](ch01_04.md)
 
 ## Part II - The inside 
 
-5. [The user's perspective](ch05.md)
-6. [Building a development toolkit](ch06.md)
-7. [Test records](ch07.md)
-8. [User, groups, roles](ch08.md)
+5. [The User Experience](ch02_01.md)
+6. [Building a development toolkit](ch02_02.md)
+7. [Test records](ch02_03.md)
+8. [User, groups, roles](ch02_04.md)
 9. Modifying the Incident module
 10. The Service Catalog
 11. Knowledge
