@@ -27,11 +27,11 @@ To make this happen, we need to identify the exact HTML to search for. Navigate 
   <!-- ngRepeat: item in c.breadcrumbs track by $index --> 
  </ul>
 
-This widget will use the $JQuery method '.after', and for this the syntax we need is basically what you would use for targeting an element in CSS. Looking at the code above, we will write our target element as follows:
+This widget will use the $JQuery method '.after' (check out the API at https://api.jquery.com/after/), and for this the syntax we need is basically what you would use for targeting an element in CSS. Looking at the code above, we will write our target element as follows:
 
 ul.nav-pills > li > span > a.a-disabled
 
-This exact sequence of elements using class names is something we can be pretty sure won't appear elsewhere on the page. Finding the target here can require a bit of creative problem solving, and it may not work for every situation or need. One thing that is clear right away is that we cannot inject class names or parameters within an element. We're just inserting something new between elements, as it were.
+This exact sequence of elements using class names is something we can be pretty sure won't appear elsewhere on the page. Finding the target here can require a bit of creative problem solving, and it may not work for every situation or need. One thing that is clear right away is that we cannot inject class names or parameters within an element. We're just inserting something new between elements, as it were. If you spend a little time looking through the JQuery API you may find a few more interesting things to do.
 
 WIth the target identified we need the code we want to insert:
 
