@@ -7,7 +7,7 @@
 3. [Development Tools and Resources](ch03.md)
 4. [Path to certification](ch04.md)
 
-## Part II - The inside 
+## Part II - The inside (customize that poor PDI)
 
 5. [The user's perspective](ch05.md)
 6. [Building a development toolkit](ch06.md)
@@ -21,7 +21,7 @@
 14. Notifications, Messages, and Reports
 15. User interfaces: homepages, UI pages
 
-## Part III - The outside
+## Part III - The outside (building from scratch)
 
 16. Planning custom applications in global
 17. Planning custom applications in scope
