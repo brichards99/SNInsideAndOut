@@ -14,12 +14,12 @@
 7. [Test records](ch02_03.md)
 8. [User, groups, roles](ch02_04.md)
 9. Modifying the Incident module
-10. The Service Catalog
-11. Knowledge
-12. Change Management
-13. SDLC
-14. Notifications, Messages, and Reports
-15. User interfaces: homepages, UI pages
+10. The Service Catalog (automating work, release process)
+11. Knowledge (workflows, publishing)
+12. Change Management (working with date/time)
+13. SDLC (hobbling code, debugging)
+14. Notifications, Messages, and Reports (more debugging, log analysis, events)
+15. User interfaces: homepages, UI pages, CMS, Service Portal, UI Builder 
 
 ## Part III - The outside
 
@@ -33,12 +33,13 @@
 ## Part IV - Service Portal
 
 22. Service Portal architecture
-23. Project: Personal portal
-24. Project: Service Group portal
-25. Widget design -- from the inside
-26. Widget design -- from scratch
-27. Project: Service Group portal in scope
-28. Project: Outages and Maintenance Calendar in scope
+23. A few utility portals: printing, personal dashboard, digital signage
+24. Project: Personal portal
+25. Project: Service Group portal
+26. Widget design -- from the inside
+27. Widget design -- from scratch
+28. Project: Service Group portal in scope
+29. Project: Outages and Maintenance Calendar in scope
 
 
 ## Design Patterns Summary
