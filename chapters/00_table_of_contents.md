@@ -1,13 +1,13 @@
 # Table of Contents
 
-## Part I - [Notes to Get Started](ch01_00.md)
+## Part I - [Get Started](ch01_00.md)
 
 1. [ServiceNow Overview](ch01_01.md)
 2. [IT Service Management](ch01_02.md)
 3. [Development Tools and Resources](ch01_03.md)
 4. [Path to certification](ch01_04.md)
 
-## Part II - The inside 
+## Part II - Working on the inside
 
 5. [The User Experience](ch02_01.md)
 6. [Building a development toolkit](ch02_02.md)
@@ -21,7 +21,7 @@
 14. Notifications, Messages, and Reports (more debugging, log analysis, events)
 15. User interfaces: homepages, UI pages, CMS, Service Portal, UI Builder 
 
-## Part III - The outside
+## Part III - Coming at it from outside
 
 16. Planning custom applications in global
 17. Planning custom applications in scope
@@ -41,8 +41,15 @@
 28. Project: Service Group portal in scope
 29. Project: Outages and Maintenance Calendar in scope
 
+## Part V - UI Builder
 
-## Design Patterns Summary
+##Appendices
+
+[Service Portal parts list](app_01.md)
+
+GlideRecord Dorks
+
+Design Patterns
 
 Client Script
 Client Script with AJAX
