@@ -4,22 +4,23 @@
 
 1. [ServiceNow Overview](ch01_01.md)
 2. [IT Service Management](ch01_02.md)
-3. [Development Tools and Resources](ch01_03.md)
-4. [Path to certification](ch01_04.md)
+3. [Path to certification](ch01_03.md)
+4. [Development Tools and Resources](ch01_04.md)
+5. [Agile Development](ch01_05.md)
 
 ## Part II - Working on the inside
 
-5. [The User Experience](ch02_01.md)
-6. [Building a development toolkit](ch02_02.md)
-7. [Test records](ch02_03.md)
-8. [User, groups, roles](ch02_04.md)
-9. Modifying the Incident module
-10. The Service Catalog (automating work, release process)
-11. Knowledge (workflows, publishing)
-12. Change Management (working with date/time)
-13. SDLC (hobbling code, debugging)
-14. Notifications, Messages, and Reports (more debugging, log analysis, events)
-15. User interfaces: homepages, UI pages, CMS, Service Portal, UI Builder 
+1. [The User Experience](ch02_01.md)
+2. [Building a development toolkit](ch02_02.md)
+3. [Test records](ch02_03.md)
+4. [User, groups, roles](ch02_04.md)
+5. Modifying the Incident module
+6. [The Service Catalog (automating work, release process)](ch02_06.md)
+7. Knowledge (workflows, publishing)
+8. Change Management (working with date/time)
+9. SDLC (hobbling code, debugging)
+10. Notifications, Messages, and Reports (more debugging, log analysis, events)
+11. User interfaces: homepages, UI pages, CMS, Service Portal, UI Builder 
 
 ## Part III - Coming at it from outside
 
