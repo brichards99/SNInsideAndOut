@@ -1,0 +1,70 @@
+# Project: To-Do App
+
+## Good Practices
+
+* Plan custom apps with future enhancements in mind
+* Consider forms and lists carefully when setting up custom tables
+
+## The Project
+
+The goal for this project is simple: we want to build a simple to-do list application in ServiceNow.
+
+The client has listed the following ten requirements for the creation of a to-do list application:
+
+1. The application should allow users to create multiple lists with different categories or themes, such as work, personal, grocery, etc.
+2. The application should enable users to easily add new tasks to their lists, including a title and description of the task.
+3. The application should allow users to set due dates and reminders for their tasks to help them stay on track and avoid missing deadlines.
+4. The application should allow users to mark tasks as completed and archive them for future reference.
+5. The application should allow users to prioritize tasks by setting a level of importance or urgency for each task.
+6. The application should enable users to search for tasks within their lists using keywords or filters.
+7. The application should provide users with the ability to share their lists and tasks with others, such as friends or colleagues, for collaborative purposes.
+8. The application should allow users to customize the look and feel of their lists, such as changing the color scheme or font style.
+9. The application should provide users with feedback on their progress, such as a summary of completed tasks or a progress bar indicating how many tasks are left to complete.
+10. The application should be accessible and user-friendly, with intuitive navigation and clear instructions for new users.
+
+From this we can plan three different projects:
+
+* Development a Global Scope application meeting these requirements.
+* Development a Scoped application meeting these requirements.
+* Build a Service Portal widget implementing these requirements (and associated with the Scoped App created above)
+
+
+Story #1
+
+"As a busy professional, I want to be able to organize my tasks by different categories or themes so that I can easily keep track of all my to-dos in one place. When I log into the to-do list application on the ServiceNow cloud platform, I want to be able to create multiple lists, such as work, personal, and grocery, and be able to switch between them easily. I want to be able to add tasks to each list and have the ability to edit or delete them if needed. This way, I can stay organized and efficient in managing my tasks and responsibilities."
+
+Story #2
+
+"As a forgetful person, I want to be able to easily add new tasks to my to-do list so that I don't forget important items. When I open the to-do list application on the ServiceNow cloud platform, I want to be able to quickly add a new task by entering a title and description. 
+
+Story #3
+
+"I want the application to provide me with the option to set a due date for the task, and receive a reminder before the due date so that I can stay on top of my tasks. Additionally, I want to be able to attach any relevant documents or links to the task so that I have all the information I need in one place."
+
+Story #4
+
+"As an organized user, I want to be able to mark completed tasks as done and archive them so that I can focus on current tasks and keep my to-do list clean. When I complete a task on the to-do list application on the ServiceNow cloud platform, I want to be able to mark it as completed with a single click. Once the task is marked as completed, I want it to be moved to an archived section, where I can view it later if needed. I want to be able to easily access my archived tasks and view them in chronological order. This way, I can keep my to-do list up-to-date and focus on the tasks that still need to be completed."
+
+Story #5
+
+"As a busy professional, I want to be able to prioritize my tasks in the to-do list application so that I can focus on completing the most important ones first. I want to be able to easily assign priority levels to each task, such as 'high', 'medium', or 'low', and I want the application to automatically sort my tasks based on their priority level. This will help me to better manage my time and ensure that I am completing the tasks that are most critical to my work."
+
+Story #6
+
+"As a busy user of the to-do list application, I want to be able to search for specific tasks within my lists using keywords or filters, so that I can easily find the tasks I need to complete."
+
+Story #7
+
+"As a collaborative worker, I want to be able to share my to-do lists with my colleagues or team members so that we can work together more efficiently. When I use the to-do list application on the ServiceNow cloud platform, I want to be able to share specific lists or tasks with others by sending them an email invitation. I want the application to allow me to set permissions for each collaborator, such as read-only or read-write access, so that I can control who can edit or delete tasks. I want to be able to see who has access to my lists and what changes they have made, so that I can stay up-to-date on our progress. This way, my team and I can collaborate effectively and get things done faster."
+
+Story #8
+
+"As a user who values personalization, I want to be able to customize the appearance of my to-do lists to suit my preferences. When I use the to-do list application on the ServiceNow cloud platform, I want to be able to choose from a variety of color schemes, font styles, and layouts to make my lists more visually appealing and easier to read. I want to be able to save my preferences so that I don't have to keep making changes every time I create a new list. I want the customization options to be intuitive and user-friendly, so that I can easily find and apply the settings that I want. This way, I can enjoy a personalized and aesthetically pleasing to-do list experience that suits my individual needs and preferences."
+
+Story #9
+
+"As a user who wants to stay motivated, I want to be able to see my progress and get feedback on my achievements. When I use the to-do list application on the ServiceNow cloud platform, I want to be able to view a summary of my completed tasks, such as the number of tasks completed and the time taken to complete them. I want the application to provide me with a progress bar or visual indicator that shows me how much of my list I have completed and how much is left to do. I want to receive notifications or reminders when I have completed a certain number of tasks or achieved a certain milestone, to help me stay motivated and on track. This way, I can feel a sense of accomplishment and satisfaction as I work through my to-do list."
+
+Story #10
+
+"As a new user, I want to be able to quickly and easily learn how to use the to-do list application on the ServiceNow cloud platform. When I first log in to the application, I want to be presented with a clear and concise tutorial or guide that shows me how to create a new list, add tasks, set due dates, and mark tasks as completed. I want the tutorial to be interactive and hands-on, so that I can practice using the application and get comfortable with its features. I want to be able to access the tutorial at any time, in case I forget how to do something or want to learn more about a specific feature. I want the application to use clear and consistent terminology and icons, so that I can easily understand what each feature does. This way, I can quickly become proficient in using the to-do list application and start managing my tasks more effectively."
