@@ -8,73 +8,110 @@
 4. [Development Tools and Resources](ch01_04.md)
 5. [Agile Development](ch01_05.md)
 
-## Part II - Working on the inside
+## Part II - Working on the inside: customization & configuration
 
-1. [The User Experience](ch02_01.md)
-2. [Building a development toolkit](ch02_02.md)
-3. [Test records](ch02_03.md)
-4. [User, groups, roles](ch02_04.md)
-5. Modifying the Incident module
-6. [The Service Catalog (automating work, release process)](ch02_06.md)
-7. Knowledge (workflows, publishing)
-8. Change Management (working with date/time)
-9. SDLC (hobbling code, debugging)
-10. Notifications, Messages, and Reports (more debugging, log analysis, events)
-11. User interfaces: homepages, UI pages, CMS, Service Portal, UI Builder 
+01. [The User Experience](ch02_01.md)
+02. [Building a development toolkit](ch02_02.md)
+03. [Test records](ch02_03.md)
+04. [User, groups, roles](ch02_04.md)
+05. Mini project: Elevated Users report
+06. Modifying the Incident module
+07. [The Service Catalog (automating work, release process)](ch02_07.md)
+08. Mini Project: 'Document this' button for Catalog Items
+09. [Knowledge (workflows, publishing)](ch02_09.md)
+10. Mini Project: Insert a Joke button using REST integration
+11. Change Management (working with date/time)
+12. SDLC (hobbling code, debugging)
+13. Mini Project: Automate the installation of plugins
+14. Mini Project: Fill a form with randomness' button
+15. Notifications, Messages, and Reports (more debugging, log analysis, events)
+16. Mini Project: Notification overhaul
+17. User interfaces: homepages, UI pages, CMS, Service Portal, UI Builder 
 
-## Part III - Coming at it from outside
+## Part III - Coming at it from outside: custom app development
 
-16. Planning custom applications in global
-17. Planning custom applications in scope
-18. REST API, Workflows, Scheduled Jobs
-19. Project: test records app
-20. Project: lunch for co-workers app
-21. Project: meeting scheduler app
+01. [Planning custom applications in global](ch03_01.md)
+02. Project: test records app
+03. Project: developer dashboard
+04. Planning custom applications in scope
+05. Project: lunch for co-workers app
+06. Project: meeting scheduler app
+07. Project: To-Do list app
+08. REST API, Workflows, Scheduled Jobs
+09. Project: cross instance admin portal
 
-## Part IV - Service Portal
+## (Bonus) Part IV - Service Portal
 
-22. Service Portal architecture
-23. A few utility portals: printing, personal dashboard, digital signage
-24. Project: Personal portal
-25. Project: Service Group portal
-26. Widget design -- from the inside
-27. Widget design -- from scratch
-28. Project: Service Group portal in scope
-29. Project: Outages and Maintenance Calendar in scope
+01. Service Portal architecture
+02. Project: Configure The Portal to Death
+03. Mini Project: ChatGPT inside of Virtual Agent
+04. A few utility portals: printing, personal dashboard, digital signage
+05. Project: Personal portal
+06. Project: Service Group portal
+07. Widget design -- understanding it from the inside
+08. Widget design -- from scratch
+09. Project: Service Group portal in scope
+10. Project: Outages and Maintenance Calendar in scope
 
-## Part V - UI Builder
+## (Bonus) Part V - UI Builder
 
-##Appendices
+## Appendices
 
-[Service Portal parts list](app_01.md)
+### A1 Portal Bits
 
-GlideRecord Dorks
+01. [Service Portal and Employee Center parts list](a1_01.md)
+02. Filter and Ticket Configuration Relationships
 
-Design Patterns
+### A2 GlideRecord Dorks
 
-Client Script
-Client Script with AJAX
-Business Rule (update / insert)
-Business Rule (async)
-Script Include (classless)
-Script Include ()
-Error Handling
-Debuggable Code
-Documentation
-Notifications
-Scripted REST API
-Flow Designer for Service Catalog
+01. [The GlideRecord API](a2_01.md)
+02. [GR Dorks](a2_02.md)
+03. GlideQuery
 
 
-## Exercises Summary
+### A3 Design Patterns
+
+01. [Client Script](a3_01.md)
+02. Client Script with Scratchpad
+03. Client Script with AJAX
+04. Business Rule (update / insert)
+05. Business Rule (async)
+06. Script Include (classless)
+07. Script Include 
+08. Script Include with variables
+09. Error Handling
+10. Debuggable Code
+11. Documentation
+12. Notifications
+13. Scripted REST API
+14. Flow Designer for Service Catalog
+15. Service Portal Widget
+16. Service Portal Widget with Angular Service
 
 
-## Project Summary
+## A4 Exercise Summaries
 
-19. Project: test records app
-20. Project: lunch for co-workers app
-21. Project: meeting scheduler app
-23. Project: Personal portal
-24. Project: Service Group portal
-27. Project: Service Group portal in scope
-28. Project: Outages and Maintenance Calendar in scope
+## A5 Minor Projects
+01. Elevated Users report
+02. 'Document this' button for Catalog Items
+03. Insert a Joke button using REST integration 
+04. ChatGPT inside of Virtual Agent
+05. Automate the installation of plugins
+06. 'Fill a form with randomness' button
+07. Notification overhaul
+
+## A6 Project Epic
+01. [Project: test records app](a6_01.md)
+02. [Project: developer dashboard](a6_02.md)
+03. Project: lunch for co-workers app
+04. Project: meeting scheduler app
+05. [Project: To-Do list app](a6_05.md)
+06. Project: cross instance admin portal
+07. Project: Configure The Portal to Death
+08. Project: Service Group portal
+09. Project: Service Group portal in scope
+10. Project: Outages and Maintenance Calendar in scope
+11. Project: A scoped demo of platform security
+
+
+

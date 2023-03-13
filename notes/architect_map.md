@@ -1,6 +1,10 @@
+# Architecting a ServiceNow Project
+
 Gathering requirements from a client or a group of users is where it all starts. A developer or implementor or architect should not kick off a project with what they think needs to be done: you start with the people who have the need and you listen to them first.
 
 After you have done the hard work of listening, however, you will have a pile of ideas that need refined. Ideally this pile will include an overall project goal and a long list of detailed user stories describing what is wanted and needed. The next step is architecture work. This might be completed by a business analyst or a software architect. It might even be completed by the product owner -- it does not matter who. What matters is the process.
+
+## What Needs To Be Done
 
 Generally speaking the architecting of a project should accomplish the following:
 
@@ -9,4 +13,16 @@ Generally speaking the architecting of a project should accomplish the following
 3. Identify things that need to be revisited with the users due to matters of feasibility or scope. 
 4. Fill in gaps where the needs of the users imply elements which also need to be created but which they either overlooked or did not know about.
 5. Prioritize the work into a series of steps that can be converted into technical development.
+
+## One Step Deeper -- Guidance for Developent Approaches and Release Management Approaches
+
+
+
+## The Final Level -- General Guidance for All ServiceNow Development
+
+The first rule of customization: isolate your work
+
+The second rule of customization: make your work debuggable
+
+The third rule of customization: make your work testable
 
