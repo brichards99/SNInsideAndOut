@@ -12,3 +12,5 @@ Be comfortable creating lots of objects, but well-named ones. When a business ru
 
 In the same vein, when building business rules, be definitive about which rules affect the current record, which ones will modify other records, and which trigger other behaviors, such as events or workflows. This also makes debugging easier.
 
+Avoid using hardcoded values: https://www.servicenow.com/community/developer-articles/scripting-best-practices-avoid-using-hardcoded-values-in-scripts/ta-p/2466714
+
