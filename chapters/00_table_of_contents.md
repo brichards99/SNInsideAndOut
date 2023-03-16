@@ -72,9 +72,9 @@
 ### A3 Design Patterns
 
 01. [Client Script](a3_01.md)
-02. Client Script with Scratchpad
-03. Client Script with AJAX
-04. Business Rule (update / insert)
+02. [Client Script with Scratchpad](a3_02.md)
+03. [Client Script with AJAX](a3_03.md)
+04. [Business Rule (update, insert, query)](a3_04.md)
 05. Business Rule (async)
 06. Script Include (classless)
 07. Script Include 
@@ -91,7 +91,7 @@
 
 ## A4 Exercise Summaries
 
-## A5 Minor Projects
+## A5 Minor Project Solution Notes
 01. Elevated Users report
 02. 'Document this' button for Catalog Items
 03. Insert a Joke button using REST integration 
@@ -100,7 +100,7 @@
 06. 'Fill a form with randomness' button
 07. Notification overhaul
 
-## A6 Project Epic
+## A6 Project Epic Solution Notes
 01. [Project: test records app](a6_01.md)
 02. [Project: developer dashboard](a6_02.md)
 03. Project: lunch for co-workers app
