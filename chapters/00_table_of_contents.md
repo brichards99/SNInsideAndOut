@@ -28,6 +28,8 @@
 16. Mini Project: Notification overhaul
 17. User interfaces: homepages, UI pages, CMS, Service Portal, UI Builder 
 
+## Interlude: Annoying things to script solutions to
+
 ## Part III - Coming at it from outside: custom app development
 
 01. [Planning custom applications in global](ch03_01.md)
@@ -53,7 +55,7 @@
 09. Project: Service Group portal in scope
 10. Project: Outages and Maintenance Calendar in scope
 
-## (Bonus) Part V - UI Builder
+## (Bonus) Part V - UI Builder and App Engine Studio
 
 ## Appendices
 
@@ -92,13 +94,14 @@
 ## A4 Exercise Summaries
 
 ## A5 Minor Projects
-01. Elevated Users report
-02. 'Document this' button for Catalog Items
-03. Insert a Joke button using REST integration 
+01. [Elevated Users Utilities](a5_01.md)
+02. ['Document this' button for Catalog Items](a5_02.md)
+03. [Insert a Joke button using REST integration](a5_03.md)
 04. ChatGPT inside of Virtual Agent
 05. Automate the installation of plugins
 06. 'Fill a form with randomness' button
 07. Notification overhaul
+08. Problematic records dashboard
 
 ## A6 Project Epic
 01. [Project: test records app](a6_01.md)
@@ -112,6 +115,7 @@
 09. Project: Service Group portal in scope
 10. Project: Outages and Maintenance Calendar in scope
 11. Project: A scoped demo of platform security
+12. Project: The Developer's Master Portal
 
 
 
