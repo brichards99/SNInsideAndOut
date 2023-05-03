@@ -95,6 +95,7 @@
 
 ## A4 Exercise Summaries
 
+<<<<<<< HEAD
 ## A5 Minor Projects
 01. [Elevated Users Utilities](a5_01.md)
 02. ['Document this' button for Catalog Items](a5_02.md)
@@ -118,6 +119,6 @@
 10. Project: Outages and Maintenance Calendar in scope
 11. Project: A scoped demo of platform security
 12. Project: The Developer's Master Portal
-
+13. Project: March Madness Bracket
 
 
