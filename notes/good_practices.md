@@ -1,4 +1,12 @@
 
+## Modifying Out of the Box Things
+
+## Creating and Using Update Sets
+
+## Disabling Things
+
+## Coding Stuff
+
 
 When making an object (BR, Client SCript, etc) inactive, comment the code itself in addition to making the object not 'Active' so that is clear for future sysadmins that this code should not be run for a reason. It is best to completely 'hobble' the code by commenting it out or adding a condition to prevent its execution.
 

@@ -42,6 +42,8 @@
 08. REST API, Workflows, Scheduled Jobs
 09. Project: cross instance admin portal
 
+## Interlude: Handy Things To Know
+
 ## (Bonus) Part IV - Service Portal
 
 01. Service Portal architecture
@@ -93,17 +95,10 @@
 
 ## A4 Exercise Summaries
 
-<<<<<<< HEAD
 ## A5 Minor Projects
 01. [Elevated Users Utilities](a5_01.md)
 02. ['Document this' button for Catalog Items](a5_02.md)
 03. [Insert a Joke button using REST integration](a5_03.md)
-=======
-## A5 Minor Project Solution Notes
-01. Elevated Users report
-02. 'Document this' button for Catalog Items
-03. Insert a Joke button using REST integration 
->>>>>>> 6b236fcac1609ed23899b63d8821b07a1199e72d
 04. ChatGPT inside of Virtual Agent
 05. Automate the installation of plugins
 06. 'Fill a form with randomness' button
