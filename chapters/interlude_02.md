@@ -1,4 +1,4 @@
-## Handy Things To Know
+## Interlude: Handy Things To Know
 
 ### Table commands
 

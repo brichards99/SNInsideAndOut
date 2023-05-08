@@ -1,0 +1,20 @@
+Introduction
+
+Developer Skills Needed: This is what you will practice
+
+
+Good Practices
+
+
+References
+
+
+Agile Stories: These are your requirements
+
+
+The Backlog: These are not required, but are available for an extra challenge
+
+
+Design Thinking: suggested Implementation
+
+
