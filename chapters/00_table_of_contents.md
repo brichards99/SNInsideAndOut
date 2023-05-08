@@ -107,6 +107,7 @@
 08. Problematic records dashboard
 
 ## A6 Project Epic Solution Notes
+Project: Update Set & Agile Story Integration
 01. [Project: test records app](a6_01.md)
 02. [Project: developer dashboard](a6_02.md)
 03. Project: lunch for co-workers app
