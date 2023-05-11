@@ -4,16 +4,16 @@
 
 ## Part I - [Developer Orientation](ch01_00.md)
 
-* KB0010001 [ServiceNow Overview](ch01_01.md)
-* KB0010002 [IT Service Management](ch01_02.md)
-* KB0010003 [Regarding certification](ch01_03.md)
-* KB0010004 [Development Tools and Resources](ch01_04.md)
-* KB0010005 [Agile Development](ch01_05.md)
-* KB0010006 [Kanban](ch01_06.md)
-* KB0010007 [ServiceNow 'Good Practices'](ch01_07.md)
-* KB0010008 [General 'Good Practices' for developers]
+* KB0010001 [ServiceNow Overview](KB0010001.md)
+* KB0010002 [IT Service Management](KB0010002.md)
+* KB0010003 [Regarding certification](KB0010003.md)
+* KB0010004 [Development Tools and Resources](KB0010004.md)
+* KB0010005 [Agile Development](KB0010005.md)
+* KB0010006 [Kanban](KB0010006.md)
+* KB0010007 [ServiceNow 'Good Practices'](KB0010007.md)
+* KB0010008 ['Good Practices' for software development](KB0010008.md)
 
-## Interlude: [Handy Things A Dev Know](interlude_02.md)
+## Interlude: [Handy Things A Dev Should Know](interlude_02.md)
 
 ## Part II - Working on the inside: customization & configuration
 
@@ -50,15 +50,15 @@
 * E-bonding part 2 - Agile Development 2.0
 
 ## (Bonus) Part IV - Service Portal
-* [ServiceNow's many user interfaces]
-* [Service Portal 'Good Practices']
-* Service Portal configuration and administration
-* Advanced configuration part 1: Service Catalog, Search
-* Advanced configuration part 2: Knowledge, Outage
-* New page layouts and widget configurations
-* Advanced page and widget configurations
-* Style
-* Portal security concepts
+* KB0010009 [ServiceNow's many user interfaces]
+* KB0010010 [Service Portal 'Good Practices']
+* KB0010011 Service Portal configuration and administration
+* KB0010012 Advanced configuration part 1: Service Catalog, Search
+* KB0010013 Advanced configuration part 2: Knowledge, Outage
+* KB0010014 Page layouts and widget configurations
+* KB0010015 Advanced page and widget configurations
+* KB0010016 Style
+* KB0010017 Portal security concepts
 * Basic widget development
 * The widget toolbox part 1
 * The widget toolbox part 2

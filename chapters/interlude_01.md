@@ -3,6 +3,32 @@ Glide Record Dorks
 
 ### Good practices for your dorks
 
+
+### Reorder the Application Menus 
+This is a good candidate for backing up your files, since now we're talking about a set of items that everyone on the platform uses. Navigate to the System Definition > Application Menus list and right-click the header. Then 'Export' > 'XML'.
+
+
+                var grAppMenu = new GlideRecord('sys_app_application');
+                grAppMenu.addActiveQuery();
+                grAppMenu.query();
+
+                while(grAppMenu.next()){
+                grAppMenu.order = '';
+                grAppMenu.update();
+
+                }
+
+                var grAppMenuSS = new GlideRecord('sys_app_application');
+                grAppMenuSS.addQuery('title', 'Self-Service');
+                grAppMenuSS.query();
+
+                while(grAppMenuSS.next()){
+
+                grAppMenuSS.setValue('order', 10);
+                grAppMenuSS.update();
+
+                }
+
 ### Create a test user
 
                 var newUserObj = {
