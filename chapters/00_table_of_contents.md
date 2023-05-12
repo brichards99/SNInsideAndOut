@@ -2,7 +2,7 @@
 
 ## [What is this book about?](ch00.md)
 
-## Part I - [Developer Orientation](ch01_00.md)
+## Part I - [Developer Orientation]
 
 * KB0010001 [ServiceNow Overview](KB0010001.md)
 * KB0010002 [IT Service Management](KB0010002.md)
@@ -13,27 +13,28 @@
 * KB0010007 [ServiceNow 'Good Practices'](KB0010007.md)
 * KB0010008 ['Good Practices' for software development](KB0010008.md)
 
-## Interlude: [Handy Things A Dev Should Know](interlude_02.md)
+## Interlude: [Handy Things A Dev Should Know](KB0010019.md)
 
 ## Part II - Working on the inside: customization & configuration
 
-* [The User Experience](ch02_01.md)
-* [Building a development toolkit](ch02_02.md)
-* [Test records](ch02_03.md)
+* KB0010021 [The User Experience](ch02_01.md)
+* KB0010022 [Building a development toolkit](ch02_02.md)
+* KB0010023 [Test records](ch02_03.md)
+* EPIC0010023 [Roll Out Incident Management](EPIC0010023.md)
 * EPIC0010014 [Test Record Tools](EPIC0010014.md)
-* [User, groups, roles](ch02_04.md)
+* KB0010024 [User, groups, roles](ch02_04.md)
 * EPIC0010012 [Elevated Users dashboard](EPIC0010012.md)
-* Incident
-* EPIC0010015 Insert a Joke button using REST integration
-* [The Service Catalog](ch02_07.md)
+* KB0010025 Incident
+* EPIC0010015 [Insert a Joke button using REST integration](EPIC0010015.md)
+* KB0010026 [The Service Catalog](ch02_07.md)
 * EPIC0010013 'Document this' button for Catalog Items
-* [Knowledge](ch02_09.md)
-* Change Management
-* SDLC endings (instance governance, hobbling code, debugging)
-* Notifications, Messages, and Reports (more debugging, log analysis, events)
+* KB0010027 [Knowledge](ch02_09.md)
+* KB0010028 Change Management
+* KB0010029 SDLC endings (instance governance, hobbling code, debugging)
+* KB0010030 Notifications, Messages, and Reports (more debugging, log analysis, events)
 * EPIC0010016 Notification overhaul
 
-## Interlude: [Annoying things worth scripting](interlude_01.md)
+## Interlude: [Annoying things worth scripting](KB0010031.md)
 
 ## Part III - Coming at it from outside: custom app development
 
