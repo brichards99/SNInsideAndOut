@@ -11,20 +11,21 @@
 * KB0010005 [Agile Development](KB0010005.md)
 * KB0010006 [Kanban](KB0010006.md)
 * KB0010007 [ServiceNow 'Good Practices'](KB0010007.md)
-* KB0010008 ['Good Practices' for software development](KB0010008.md)
+* KB0010008 ['Good Practices' for software development](KB0010008.md)'
+* The Birds, the Bees, and the Truth about ServiceNow Tables
 
 ## Interlude: [Handy Things A Dev Should Know](KB0010019.md)
 
 ## Part II - Working on the inside: customization & configuration
 
-* KB0010021 [The User Experience](ch02_01.md)
-* KB0010022 [Building a development toolkit](ch02_02.md)
-* KB0010023 [Test records](ch02_03.md)
+* KB0010021 [The User Experience](KB0010021.md)
+* KB0010022 [Building a development toolkit](KB0010022.md)
+* KB0010023 [Test records](KB0010023.md)
 * EPIC0010023 [Roll Out Incident Management](EPIC0010023.md)
 * EPIC0010014 [Test Record Tools](EPIC0010014.md)
 * KB0010024 [User, groups, roles](ch02_04.md)
 * EPIC0010012 [Elevated Users dashboard](EPIC0010012.md)
-* KB0010025 Incident
+* KB0010025 [Incident](KB0010025.md)
 * EPIC0010015 [Insert a Joke button using REST integration](EPIC0010015.md)
 * KB0010026 [The Service Catalog](ch02_07.md)
 * EPIC0010013 'Document this' button for Catalog Items
@@ -51,8 +52,8 @@
 * E-bonding part 2 - Agile Development 2.0
 
 ## (Bonus) Part IV - Service Portal
-* KB0010009 [ServiceNow's many user interfaces]
-* KB0010010 [Service Portal 'Good Practices']
+* KB0010009 [ServiceNow's many user interfaces](KB0010009.md)
+* KB0010010 Service Portal 'Good Practices'
 * KB0010011 Service Portal configuration and administration
 * KB0010012 Advanced configuration part 1: Service Catalog, Search
 * KB0010013 Advanced configuration part 2: Knowledge, Outage
