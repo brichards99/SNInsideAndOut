@@ -89,7 +89,17 @@
 
 03. Mini Project: ChatGPT inside of Virtual Agent
 
-## (Bonus) Part V - UI Builder and App Engine Studio
+## (Bonus) Part V - Artificial Intelligence and Dev
+
+https://www.youtube.com/playlist?list=PLkGSnjw5y2U407_1UQQaVVrD13-MFi5ia
+
+AI Search (https://www.servicenow.com/community/ai-intelligence-articles/ai-search-quick-start-guide/ta-p/2307562)
+Document Intelligence (https://www.servicenow.com/community/ai-intelligence-articles/document-intelligence-quick-start-guide/ta-p/2307391)
+Predictive Intelligence
+NLU with Virtual Agent
+Issue Auto Resolution (https://www.servicenow.com/community/ai-intelligence-articles/issue-auto-resolution-iar-for-itsm-va-implementation-guide/ta-p/2464303)
+
+https://developer.servicenow.com/dev.do#!/learn/courses/sandiego/app_store_learnv2_virtualagent_sandiego_virtual_agent/app_store_learnv2_virtualagent_sandiego_developing_virtual_agent_topics/app_store_learnv2_virtualagent_sandiego_virtual_agent_objectives
 
 ## Sprint Reviews
 * EPIC0010012 [Elevated Users Utilities](a5_01.md)
