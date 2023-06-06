@@ -17,20 +17,22 @@
 
 ## Part II - Working on the inside: customization & configuration
 * KB0010021 [The User Experience](KB0010021.md)
-    *  Customize your instance
+    *  EPIC0010027 Customize your instance
 * KB0010022 [Building a development toolkit](KB0010022.md)
 * KB0010023 [Test records](KB0010023.md)
     * EPIC0010023 [Roll Out Incident Management](EPIC0010023.md)
     * EPIC0010014 [Test Record Tools](EPIC0010014.md)
 * KB0010024 [User, groups, roles](KB0010024.md)
-    * Set up the ServiceNow Support Team
+    * EPIC0010028 Set up the ServiceNow Support Team
     * EPIC0010012 [Elevated Users dashboard](EPIC0010012.md)
 * KB0010025 [Incident Management](KB0010025.md)
     * EPIC0010015 [Insert a Joke button using REST integration](EPIC0010015.md)
 * KB0010026 [The Service Catalog](KB0010026.md)
     * EPIC0010013 'Document this' button for Catalog Items
 * KB0010027 [Knowledge](KB0010027.md)
+    * EPIC0010029 Configure a Platform Administration Knowledge Base
 * KB0010028 Change Management
+    * EPIC0010030 Configure Change Management for Platform Maintenance
 * KB0010029 SDLC endings (instance governance, hobbling code, debugging)
 * KB0010030 Notifications, Messages, and Reports (more debugging, log analysis, events)
     * EPIC0010016 Notification overhaul
@@ -100,6 +102,40 @@ NLU with Virtual Agent
 Issue Auto Resolution (https://www.servicenow.com/community/ai-intelligence-articles/issue-auto-resolution-iar-for-itsm-va-implementation-guide/ta-p/2464303)
 
 https://developer.servicenow.com/dev.do#!/learn/courses/sandiego/app_store_learnv2_virtualagent_sandiego_virtual_agent/app_store_learnv2_virtualagent_sandiego_developing_virtual_agent_topics/app_store_learnv2_virtualagent_sandiego_virtual_agent_objectives
+
+## Part VI - Beyond the CSA
+
+### Running the Ship
+EPIC0010031 Document the Instance Governance Plan
+* Cloning
+* Upgrades
+* Modifying OOB
+* The Face of the System
+* System UI
+* NEXT Experience UI
+* User Preferences
+* Notifications
+
+### Helping Developers
+* Release Planning
+* Debugging client side
+* Debugging server side
+* Debugging security
+
+### Security and Availability
+
+* ACLs
+* Instance Scan
+* System Logs 
+* Emails
+* HTTP logs
+* Event History
+
+### Connections
+
+* MID Servers
+* Integrations
+* REST
 
 ## Sprint Reviews
 * EPIC0010012 [Elevated Users Utilities](a5_01.md)
