@@ -3,7 +3,7 @@
 ## [What is this book about?](ch00.md)
 
 ## Part I - Developer Orientation
-* KB0010001 [ServiceNow Overview](KB0010001.md)
+* KB0010001 [This book's premise](KB0010001.md)
 * KB0010002 [IT Service Management](KB0010002.md)
 * KB0010003 [Regarding certification](KB0010003.md)
 * KB0010004 [Development Tools and Resources](KB0010004.md)
