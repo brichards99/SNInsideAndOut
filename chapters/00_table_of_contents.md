@@ -28,6 +28,8 @@
 * KB0010025 [Incident Management](KB0010025.md)
     * EPIC0010015 [Insert a Joke button using REST integration](EPIC0010015.md)
 * KB0010026 [The Service Catalog](KB0010026.md)
+    * Create Catalog for a Rock Band
+    * Create a paginated catalog item
     * EPIC0010013 'Document this' button for Catalog Items
 * KB0010027 [Knowledge](KB0010027.md)
     * EPIC0010029 Configure a Platform Administration Knowledge Base
@@ -43,8 +45,9 @@
 * [Planning custom applications in global](ch03_01.md)
     * EPIC0010002 [Test Records Generator]
     * EPIC0010017 developer dashboard
+    Elevated Users Management Tools
 * Planning custom applications in scope
-    * EPIC0010003 Lunch for Co-workers
+    * EPIC0010003 Platform Documentation Portal
     * EPIC0010004 Meeting Scheduler
     * EPIC0010005 To-Do list app
 * REST API, Workflows, Scheduled Jobs
@@ -148,7 +151,7 @@ EPIC0010031 Document the Instance Governance Plan
 * EPIC0010002 [Test Records Generator](a6_01.md)
 * EPIC0010012 Elevated Users dashboard
 * EPIC0010017 [developer dashboard](a6_02.md)
-* EPIC0010003 Lunch for Co-workers
+* EPIC0010003 Platform Documentation Portal
 * EPIC0010004 Meeting Scheduler
 * EPIC0010005 [To-Do list app](a6_05.md)
 * EPIC0010018 Cross Instance Admin Portal
