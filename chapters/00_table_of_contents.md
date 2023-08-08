@@ -3,7 +3,7 @@
 ## [What is this book about?](ch00.md)
 
 ## Part I - Developer Orientation
-* KB0010001 [This book's premise](KB0010001.md)
+* KB0010001 [ServiceNow Overview](KB0010001.md)
 * KB0010002 [IT Service Management](KB0010002.md)
 * KB0010003 [Regarding certification](KB0010003.md)
 * KB0010004 [Development Tools and Resources](KB0010004.md)
@@ -16,38 +16,46 @@
 ## Interlude: [Handy Things A Dev Should Know](KB0010019.md)
 
 ## Part II - Working on the inside: customization & configuration
+* KB0010022 [Build a development toolkit](KB0010022.md)
 * KB0010021 [The User Experience](KB0010021.md)
-    *  EPIC0010027 Customize your instance
-* KB0010022 [Building a development toolkit](KB0010022.md)
+    *  EPIC0010027 [Customize your instance](EPIC0010027.md)
+    Expand the Dev Kit: User Preferences, Lists, and Menus   
 * KB0010023 [Test records](KB0010023.md)
     * EPIC0010023 [Roll Out Incident Management](EPIC0010023.md)
     * EPIC0010014 [Test Record Tools](EPIC0010014.md)
 * KB0010024 [User, groups, roles](KB0010024.md)
     * EPIC0010028 Set up the ServiceNow Support Team
     * EPIC0010012 [Elevated Users dashboard](EPIC0010012.md)
+    Expand the Dev Kit: User Tools
 * KB0010025 [Incident Management](KB0010025.md)
+    Set up Platform Support for Incident
+    Configure the Incident Module for Rock Band as a Service
+    Expand the Dev Kit: Incident Management Tools    
     * EPIC0010015 [Insert a Joke button using REST integration](EPIC0010015.md)
 * KB0010026 [The Service Catalog](KB0010026.md)
-    * Create Catalog for a Rock Band
-    * Create a paginated catalog item
+    Create the Catalog Items for Rock Band as a Service
     * EPIC0010013 'Document this' button for Catalog Items
 * KB0010027 [Knowledge](KB0010027.md)
     * EPIC0010029 Configure a Platform Administration Knowledge Base
 * KB0010028 Change Management
-    * EPIC0010030 Configure Change Management for Platform Maintenance
+    * EPIC0010030 Configure Change Management for Platform Administration
+    Configure Change Management for Rock Band as a Service
+    Customize the Change Management form  for Rock Band Changes
 * KB0010029 SDLC endings (instance governance, hobbling code, debugging)
+
 * KB0010030 Notifications, Messages, and Reports (more debugging, log analysis, events)
     * EPIC0010016 Notification overhaul
+    * A Rock and Roll Business Dashboard
 
 ## Interlude: [Annoying things worth scripting](KB0010031.md)
 
 ## Part III - Coming at it from outside: custom app development
 * [Planning custom applications in global](ch03_01.md)
     * EPIC0010002 [Test Records Generator]
-    * EPIC0010017 developer dashboard
-    Elevated Users Management Tools
+    * EPIC0010017 Developer Dashboard
+    * Documentation Portal
 * Planning custom applications in scope
-    * EPIC0010003 Platform Documentation Portal
+    * EPIC0010003 Lunch for Co-workers
     * EPIC0010004 Meeting Scheduler
     * EPIC0010005 To-Do list app
 * REST API, Workflows, Scheduled Jobs
@@ -151,7 +159,7 @@ EPIC0010031 Document the Instance Governance Plan
 * EPIC0010002 [Test Records Generator](a6_01.md)
 * EPIC0010012 Elevated Users dashboard
 * EPIC0010017 [developer dashboard](a6_02.md)
-* EPIC0010003 Platform Documentation Portal
+* EPIC0010003 Lunch for Co-workers
 * EPIC0010004 Meeting Scheduler
 * EPIC0010005 [To-Do list app](a6_05.md)
 * EPIC0010018 Cross Instance Admin Portal
